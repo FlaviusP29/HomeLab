@@ -18,3 +18,7 @@ Post-installation, the server was configured as an **Active Directory Domain Con
 *   Installed **Active Directory Domain Services (AD DS)** via Server Manager (*Add Roles and Features*).
 
 * ![AD DS Installation Screenshot](https://github.com/user-attachments/assets/0348a94f-679d-46e3-aff3-20d4b7ab5fe4)
+
+
+### Navigation
+*Previous: [Hardening SonicWall NSv Security](../Hardening_Firewall/README.md)*

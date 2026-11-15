@@ -45,4 +45,4 @@ Once I had these steps right, the latest NSv version booted cleanly and I could 
 
 ---
 
-*Next: [AlmaLinux AD Server Setup](link-to-next-post)*
+*Next: [Synchronize SonicWall Licenses](Synchronize_Licenses/README.md)*
